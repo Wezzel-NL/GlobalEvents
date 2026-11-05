@@ -1,0 +1,27 @@
+﻿{
+  "name": "com.wezzelnl.globalevents",
+  "version": "1.0.0",
+  "displayName": "Global Events",
+  "description": "An allocation free global event system for Unity.",
+  "unity": "6000.3",
+  "keywords": [
+    "event",
+    "system",
+    "global"
+  ],
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.11"
+  },
+  "author": {
+    "name": "WezzelNL",
+    "email": "contact@wezzel.nl",
+    "url": "https://wezzel.nl"
+  },
+  "documentationUrl": "TODO",
+  "changelogUrl": "TODO",
+  "licensesUrl": "https://github.com/Wezzel-NL/GlobalEvents/blob/main/LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wezzel-NL/GlobalEvents"
+  }
+}
