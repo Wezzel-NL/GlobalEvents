@@ -2,7 +2,7 @@
   "name": "com.wezzelnl.globalevents",
   "version": "1.0.0",
   "displayName": "Global Events",
-  "description": "An allocation free global event system for Unity.",
+  "description": "A minimal allocation global event system for Unity.",
   "unity": "6000.3",
   "keywords": [
     "event",
